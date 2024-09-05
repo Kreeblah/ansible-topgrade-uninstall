@@ -1,2 +1,2 @@
-# ansible-topgrade-uninstall
+# topgrade_uninstall
 Ansible role for uninstalling topgrade

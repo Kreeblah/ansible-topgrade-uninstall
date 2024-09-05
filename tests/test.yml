@@ -1,0 +1,6 @@
+---
+- name: Test topgrade_uninstall
+  hosts: localhost
+  remote_user: root
+  roles:
+    - topgrade_uninstall
