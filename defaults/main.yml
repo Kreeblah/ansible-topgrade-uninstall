@@ -1,3 +1,0 @@
----
-ansible_ssh_transfer_method: piped
-ansible_python_interpreter: auto_silent
